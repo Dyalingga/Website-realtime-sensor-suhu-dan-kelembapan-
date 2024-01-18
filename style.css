@@ -1,0 +1,37 @@
+body{
+	background-color: #CFE8EF;
+}
+
+.container { 
+	text-align: center;
+}
+
+.kotak {
+	width: 400px;
+	height: 400px;
+
+	margin-top: 40px;
+	margin-bottom: 20px;
+
+	margin-left: 20px;
+	margin-right: 20px;
+
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+	padding-right: 20px;
+	padding-left: 20px;
+
+	border: 10px solid #333;
+
+	display: inline-block;
+
+	background-color: #FFFFF0;
+}
+
+.nilai{
+	font-size: 150pt;
+}
+#reset:hover{
+	cursor: pointer;
+}
